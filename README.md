@@ -1,6 +1,6 @@
 # Coding practice
 
-**This repository is to collect all the scripts I've used to practice in different programming languages**
+**This repository is to collect all the scripts I've used to practice in R and Python**
 
 1. Pandas Series - Python script practicing the basics of pandas series.   
 
