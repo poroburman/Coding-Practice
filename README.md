@@ -2,7 +2,7 @@
 
 **This repository is to collect all the scripts I've used to practice in R and Python**
 
-1. Practice_1.ipynb - This script practices the various implementations of different Python modules like:    
+1. Practice_2.ipynb - This script practices the various implementations of different Python modules like:    
                       - Geopy package to locate coordinates of addresses.   
                       - Arrow Module for creating and formatting dates, time, and timestamps.   
                       - Web Scraping.   
