@@ -6,6 +6,14 @@
                       - Geopy package to locate coordinates of addresses.   
                       - Arrow Module for creating and formatting dates, time, and timestamps.   
                       - Web Scraping.   
+                      - BeautifulSoup for parsing html documents.     
+                      - Matplotlib.   
+                      - Seaborn.   
+
+1. Practice_1.ipynb - This script practices the various implementations of different Python modules like:    
+                      - Geopy package to locate coordinates of addresses.   
+                      - Arrow Module for creating and formatting dates, time, and timestamps.   
+                      - Web Scraping.   
                       - BeautifulSoup for parsing html documents.   
                       - Pandas for data analysis.   
                       - Numpy.   
